@@ -1,0 +1,1 @@
+-gui -agents Agent_A:Proiect_SI.Agent_A;Supervisor:Proiect_SI.Supervisor
